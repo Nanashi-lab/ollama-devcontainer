@@ -1,0 +1,1 @@
+This is a git repository for setting up ollama-devcontainer  with autocoder extension 
